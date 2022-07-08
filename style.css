@@ -1,0 +1,17 @@
+body{
+    color:whitesmoke;
+    font-family:cursive;
+}
+
+
+.Campus_mainDiv{
+    border: 1px solid lightgrey;
+}
+
+.Campus_mainDiv h5, .Campus_mainDiv p{
+    margin:20px;
+}
+
+.Campus_mainDiv img{
+    width:100%;
+}
